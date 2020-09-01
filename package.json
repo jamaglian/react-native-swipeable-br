@@ -1,0 +1,27 @@
+{
+  "name": "react-native-swipeable-br",
+  "version": "0.0.1",
+  "description": "A powerful React Native swipe component - Updated by Joao A - Devoloped by Jeff Hanson",
+  "main": "lib/index.js",
+  "author": "Joao A",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": ">=15.2.0",
+    "react-native": ">=0.44.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamaglian/react-native-swipeable-br.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "swipe",
+    "ListView",
+    "TableView"
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
