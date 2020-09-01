@@ -23,5 +23,16 @@
   ],
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "bugs": {
+    "url": "https://github.com/jamaglian/react-native-swipeable-br/issues"
+  },
+  "homepage": "https://github.com/jamaglian/react-native-swipeable-br#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

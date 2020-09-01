@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {ScrollView, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import Swipeable from 'react-native-swipeable';
+import Swipeable from 'react-native-swipeable-br';
 
 export default class SwipeableExample extends Component {
 

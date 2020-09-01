@@ -9,7 +9,7 @@ A powerful React Native swipe component.  Supports both iOS and Android.
 ## Installation
 
 ```sh
-npm i --save react-native-swipeable
+npm i --save react-native-swipeable-br
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm i --save react-native-swipeable
 Wrap your ListView/TableView items with the `Swipeable` component:
 
 ```javascript
-import Swipeable from 'react-native-swipeable';
+import Swipeable from 'react-native-swipeable-br';
 
 const leftContent = <Text>Pull to activate</Text>;
 
@@ -126,5 +126,5 @@ or:
 
 MIT
 
-[npm-image]: https://badge.fury.io/js/react-native-swipeable.svg
-[npm-url]: https://npmjs.org/package/react-native-swipeable
+[npm-image]: https://badge.fury.io/js/react-native-swipeable-br.svg
+[npm-url]: https://npmjs.org/package/react-native-swipeable-br
